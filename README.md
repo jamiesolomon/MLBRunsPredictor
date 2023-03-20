@@ -4,7 +4,7 @@
 
 **Date:** March 14, 2023<br>
 
-**Contact:** <a href="jamiesolomon97@gmail.com" target="_blank">jamiesolomon97@gmail.com</a>
+**Contact:** <a href="jamiesolomon97@gmail.com" target="_blank">jamiesolomon97@gmail.com</a> <br><br>
 This project iterates through various regression models for predicting the outcome of an MLB season.
 
 
