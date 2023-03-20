@@ -1,4 +1,10 @@
 # ModelingMLBTeams
+<a id='back_to_top'></a>
+**Author:** Jamie Solomon<br>
+
+**Date:** March 14, 2023<br>
+
+**Contact:** <a href="jamiesolomon97@gmail.com" target="_blank">jamiesolomon97@gmail.com</a>
 This project iterates through various regression models for predicting the outcome of an MLB season.
 
 
